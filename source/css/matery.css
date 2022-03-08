@@ -1,6 +1,6 @@
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
-/*修改为了#1E90FF*/
+/*修改为了#24292f*/
 @media only screen and (max-width: 601px) {
     .container {
         width: 95%;
@@ -1319,7 +1319,7 @@ thead {
 
 .chip-container .chip:hover {
     color: #fff;
-    background-color: #1E90FF !important;  /*linear-gradient(to right, #CAFFFF 0%, #FF2A68 100%) !important;*/    /* 导航栏、底部栏*/
+    background-color: #24292f !important;  /*linear-gradient(to right, #CAFFFF 0%, #FF2A68 100%) !important;*/    /* 导航栏、底部栏*/
 }
 
 .chip .tag-length {
