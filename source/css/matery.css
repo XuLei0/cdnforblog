@@ -1,6 +1,6 @@
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
-/*修改为了#1E90FF和*/
+/*修改为了#1E90FF*/
 @media only screen and (max-width: 601px) {
     .container {
         width: 95%;
